@@ -39,7 +39,7 @@ class Header extends Component {
         <div className="row aligner" style={{height: '100%'}}>
           <div className="col-md-12">
             <div>
-              <span className="iconify header-icon" data-icon="la:laptop-code" data-inline="false"></span>
+              <img src={require("../images/study.PNG")} width="300px" alt="profile headshot" />
               <br/>
               <h1 className="mb-0">
                 <Typical steps={[name]} wrapper="p" />
@@ -50,22 +50,22 @@ class Header extends Component {
               <Switch
                 checked={this.state.checked}
                 onChange={this.onThemeSwitchChange}
-                offColor="#baaa80"
+                offColor="#f0ede8"
                 onColor="#353535"
                 className="react-switch mx-auto"
-                width={90}
-                height={40}
+                width={80}
+                height={30}
                 uncheckedIcon={
                   <span
                     className="iconify"
-                    data-icon="twemoji:owl"
+                    data-icon="ri:moon-clear-fill"
                     data-inline="false"
                     style={{
                       display: "block",
                       height: "100%",
                       fontSize: 25,
                       textAlign: "end",
-                      marginLeft: "20px",
+                      marginLeft: "10px",
                       color: "#353239",
                     }}
                   ></span>
@@ -81,7 +81,7 @@ class Header extends Component {
                       fontSize: 25,
                       textAlign: "end",
                       marginLeft: "10px",
-                      color: "#353239",
+                      color: "#white",
                     }}
                   ></span>
                 }
