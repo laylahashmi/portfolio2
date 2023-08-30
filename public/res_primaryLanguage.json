@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hello",
-      "description": "I'm a software engineer residing in the Dallas-FortWorth area. I have always been enchanted with the world of technology and innovaton and after graduating from the University of Texas at Arlington, I took the leap and transitioned from the healthcare industry to start my tech journey in late 2022. Fast forward to now, summer 2023, I have expanded my skillset by completing an advanced software engineering immersive where I gained valuable technical skills and development expertise. As a detail-oriented person, I have a passion for developing, designing and maintaining websites/applications with a focus on clean coding practices and user-friendliness. My goal is to continue learning and growing as a software engineer and to contribute to innovative and meaningful projects that make a positive impact on the world. In my free time, I love to read, paint, cook, hangout with friends/family and travel. My 5 year old cat, Luna, loves to sit with me while I'm coding and is my version of a programmer's rubber duck.",
+      "description": "I'm a software engineer residing in the Dallas-FortWorth area. I have always been enchanted with the world of technology and innovaton and after graduating from the University of Texas at Arlington, I took the leap and transitioned from the finance industry to start my tech journey in early 2022 by utilizing my network and internally transferred to a software development internship at a financial services firm. Fast forward to now, summer 2023, I have expanded my skillset by completing an advanced software engineering immersive where I gained valuable technical skills and development expertise. As a detail-oriented person, I have a passion for developing, designing and maintaining websites/applications with a focus on clean coding practices and user-friendliness. In my free time, I love to read, paint, cook, hangout with friends/family and travel. My 5 year old cat, Luna, loves to sit with me while I'm coding and is my version of a programmer's rubber duck.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -185,37 +185,94 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Tracer Labs",
+        "title": "Junior Fullstack Software Engineer",
+        "years": "Jan 2023 - Present",
+        "icon": "fas fa-desktop",
         "mainTech": [
-          "Angular 8/9/10"
+          "Full Time"
         ],
         "technologies": [
+          "React",
+          "AWS",
+          "Node.js",
+          "Javascript",
           "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Python",
+          "Firebase",
+          "MySQL",
+          "GitHub",
+          "Git",
+          "Java"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Hack Reactor",
+        "title": "Software Engineer Student",
+        "years": "Aug 2022 - May 2023",
+        "icon": "fas fa-user-graduate",
         "mainTech": [
-          "Angular 7/8"
+          "Part Time"
         ],
         "technologies": [
-          "RxJS",
+          "Python",
+          "Javascript",
+          "React",
           "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "FastAPI",
+          "RESTful APIs",
+          "Tailwind CSS",
+          "Bootstrap",
+          "Microservices",
+          "Monoliths",
+          "Pollers",
+          "Docker",
+          "SQL",
+          "Node.js",
+          "Git",
+          "HTML",
+          "CSS"
+        ]
+      },
+      {
+        "company": "Robinhood",
+        "title": "Software Developer Intern",
+        "years": "Feb 2022 - Jan 2023",
+        "icon": "fas fa-laptop",
+        "mainTech": [
+          "Internal Transfer"
+        ],
+        "technologies": [
+          "Python",
+          "Docker",
+          "PostgresQL",
+          "React",
+          "AWS EC2",
+          "Sass",
+          "RabbitMQ",
+          "Django REST framework",
+          "Git",
+          "Redux"
+        ]
+      },
+      {
+        "company": "Robinhood",
+        "title": "Stockbroker",
+        "years": "Jul 2021 - Feb 2022",
+        "icon": "fas fa-chart-line",
+        "mainTech": [
+        ],
+        "technologies": [
+        ]
+      },
+      {
+        "company": "Glaucoma Consultants of Texas",
+        "title": "Medical Assistant",
+        "years": "Jul 2020 - June 2021",
+        "icon": "fa fa-stethoscope",
+        "mainTech": [
+        ],
+        "technologies": [
         ]
       }
     ]
