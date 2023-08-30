@@ -26,12 +26,12 @@ class About extends Component {
                     src={profilepic}
                     alt="Avatar placeholder"
                   />
-                  <img
+                  {/* <img
                   src={require("../images/polaroidwriting.png")}
                   width="170px"
                   className="mt-4 mx-auto"
-                  alt="writing" />
-                  {/* <h3 className="polaroid-about-me mt-3"> Hello, I'm Layla! :)</h3> */}
+                  alt="writing" /> */}
+                  <h3 className="polaroid-about-me mt-3"> Hello, I'm Layla! :)</h3>
                 </span>
                 <div className="tape-top">
                   <img
