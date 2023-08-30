@@ -3,12 +3,12 @@ body[data-theme="dark"] {
    @import '../src/scss/dark-slider.scss';
 
    .slider-tab {
-      background-color: #8C8C8C;
-   }
+      background-color: #8c8c8c;
+    }
 
-   .title-styles {
+    .title-styles {
       color: white;
-   }
+    }
 
    .header-icon {
       color: #3C342C;
@@ -39,106 +39,143 @@ body[data-theme="dark"] {
       }
    }
 
-   #about {
+   .resume-button {
+      background-color: #6d6d6d;
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      font-size: 15px;
+      transition: background-color 0.2s ease-in-out;
+      font: 25px/25px "Polaroid", sans-serif;
+    }
+
+    .resume-button:hover {
+      background-color: #8c8c8c;
+    }
+
+    #about {
       background-color: #7f7f7f;
       h1 span {
-         color: white;
-      }
-      .polaroid span {
-         background:  #6d6d6d;
-      }
-      .card {
-         background: #6d6d6d;
-         color: white;
-      }
-   }
-
-   .polaroid-about-me {
-      font: 24px/24px 'Pangolin', cursive;
       color: white;
    }
-   #portfolio {
-      background: #5b5b5b;
-      .section-title {
-         color: white !important;
-      }
-      .foto div {
-         background: #6d6d6d;
-      }
-      .project-title-settings {
-         color: white;
-      }
+   .polaroid span {
+     background: #6d6d6d;
+   }
+   .card {
+     background: #6d6d6d;
+     color: white;
+   }
+ }
+
+ .polaroid-about-me {
+   font: 30px/24px "Polaroid", sans-serif;
+   color: white;
+ }
+
+ #portfolio {
+   background: #5b5b5b;
+   .section-title {
+     color: white !important;
+   }
+   .foto div {
+     background: #6d6d6d;
+   }
+   .project-title-settings {
+     color: white;
+   }
+ }
+
+ .project-title-settings1 {
+   color: white;
+ }
+
+ #resume {
+   filter: brightness(80%);
+   background: #5b5b5b;
+   .section-title {
+     color: white !important;
    }
 
-   #resume {
-      filter: brightness(80%);
-      background: #5b5b5b;
-      .section-title {
-         color: white !important;
-      }
-
-      .experience-badge {
-         background: #919191 !important;
-         color: white;
-      }
-
-      .main-badge {
-         background: #919191 !important;
-      }
-
-      .vertical-timeline-element-date {
-         color: white;
-      }
-
-      .vertical-timeline-element-icon {
-         background: #919191 !important;
-      }
-      @media only screen and (max-width: 1169px) {
-         .vertical-timeline-element-date {
-            color: black;
-         }
-      }
-   }
-
-   .modal-inside .modal-content {
-      background: #5b5b5b;
+   .experience-badge {
+     background: #919191 !important;
       color: white;
    }
 
-   .close-icon {
+   .main-badge {
+      background: #919191 !important;
+    }
+
+    .vertical-timeline-element-date {
       color: white;
    }
+}
+
+.vertical-timeline-element-icon {
+   background: #919191 !important;
+ }
+ @media only screen and (max-width: 1169px) {
+   .vertical-timeline-element-date {
+     color: black;
+   }
+}
+}
+
+.link-button {
+  background-color: #6d6d6d;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 15px;
+  transition: background-color 0.2s ease-in-out;
+  font: 25px/25px "Polaroid", sans-serif;
+}
+
+.link-button:hover {
+  background-color: #8c8c8c;
+}
+
+.modal-inside .modal-content {
+  background: #5b5b5b;
+  color: white;
+}
+
+.close-icon {
+  color: white;
 }
 
 #skills {
-   background-color: #7F7F7F;
-   .section-title {
-      color: white !important;
-   }
+  background-color: #7f7f7f;
+  .section-title {
+    color: white !important;
+  }
 }
 
 .skills-tile {
-   background-color:#767676;
-   padding: 10px 10px 5px 10px;
-   width: 100px;
-   margin: 5px 0 5px 0;
-   border-radius: 8px;
+  background-color: #767676;
+  padding: 10px 10px 5px 10px;
+  width: 100px;
+  margin: 5px 0 5px 0;
+  border-radius: 8px;
 }
 
 .skill-icon {
-   font-size: 180%;
-   color: #D2D2D2;
-   text-align: center;
-   position: relative;
+  font-size: 180%;
+  color: #d2d2d2;
+  text-align: center;
+  position: relative;
 }
 
 footer {
-   background: #7F7F7F;
-   min-height: 100px;
-   width: 100%;
-   overflow: hidden;
-   font-size: 14px;
-   color: white;
-   position: relative;
-   text-align: center;
+  background: #7f7f7f;
+  min-height: 100px;
+  width: 100%;
+  overflow: hidden;
+  font-size: 14px;
+  color: white;
+  position: relative;
+  text-align: center;
 }

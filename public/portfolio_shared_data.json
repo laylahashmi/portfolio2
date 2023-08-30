@@ -9,9 +9,9 @@
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com/laylaxhashmi",
-          "class": "fab fa-instagram"
+          "name": "email",
+          "url": "mailto:laylawaseem@gmail.com",
+          "class": "fas fa-envelope"
         }
       ],
       "image": "skipic.jpg"
