@@ -71,7 +71,7 @@ header h1 {
 }
 
 #about {
-	background: #fff;
+	background: #f8f4eb;
 	overflow: hidden;
 }
 
@@ -180,7 +180,7 @@ header h1 {
     cursor: pointer;
 	font-size: 15px;
 	transition: background-color 0.2s ease-in-out;
-	font: 25px/25px 'Polaroid', sans-serif;
+	font: 25px/25px 'Pangolin', cursive;
 
   }
 
@@ -217,7 +217,7 @@ header h1 {
 }
 
 #resume {
-	background: #EEE5D0;
+	background: #d4cbb5;
 }
 
 .resume-button {
@@ -229,7 +229,7 @@ header h1 {
     cursor: pointer;
 	font-size: 15px;
 	transition: background-color 0.2s ease-in-out;
-	font: 25px/25px 'Polaroid', sans-serif;
+	font: 25px/25px 'Pangolin', cursive;
 
   }
 
@@ -268,8 +268,8 @@ header h1 {
 .vertical-timeline-element-date {
 	padding: 0 !important;
 	margin: 0 !important;
-	font: 25px/25px 'Polaroid', sans-serif;
-	font-size: 20px !important;
+	font: 25px/25px 'Pangolin', cursive;
+	font-size: 15px !important;
 
 }
 
@@ -293,6 +293,7 @@ header h1 {
 
 .modal-inside .modal-content {
 	background: #F6F5F0;
+	color: black;
 }
 
 .bars {
@@ -423,7 +424,7 @@ header h1 {
 	font-family: 'Ubuntu Mono', monospace;
 	text-transform: uppercase;
 	letter-spacing: 3px;
-	color: #F8F8F8;
+	color: #000000;
 	text-align: center;
 }
 

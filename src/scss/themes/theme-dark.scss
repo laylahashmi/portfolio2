@@ -131,7 +131,7 @@ body[data-theme="dark"] {
   cursor: pointer;
   font-size: 15px;
   transition: background-color 0.2s ease-in-out;
-  font: 25px/25px "Polaroid", sans-serif;
+  font: 25px/25px "Pangolin", cursive;
 }
 
 .link-button:hover {
@@ -148,26 +148,26 @@ body[data-theme="dark"] {
 }
 
 #skills {
-  background-color: #7f7f7f;
-  .section-title {
-    color: white !important;
-  }
-}
+   background-color: #7f7f7f;
+   .section-title {
+     color: white !important;
+   }
+ }
 
-.skills-tile {
-  background-color: #767676;
-  padding: 10px 10px 5px 10px;
-  width: 100px;
-  margin: 5px 0 5px 0;
-  border-radius: 8px;
-}
+ .skills-tile {
+   background-color: #767676;
+   padding: 10px 10px 5px 10px;
+   width: 100px;
+   margin: 5px 0 5px 0;
+   border-radius: 8px;
+ }
 
-.skill-icon {
-  font-size: 180%;
-  color: #d2d2d2;
-  text-align: center;
-  position: relative;
-}
+ .skill-icon {
+   font-size: 180%;
+   color: #d2d2d2;
+   text-align: center;
+   position: relative;
+ }
 
 footer {
   background: #7f7f7f;

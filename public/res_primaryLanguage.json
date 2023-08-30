@@ -123,7 +123,7 @@
         "images": [
           "images/doorhopper/solar-energy.png"
         ],
-        "url": "https://github.com/TracerLabs-sourcecode/door-hopper",
+        "github": "https://github.com/TracerLabs-sourcecode/door-hopper",
         "technologies": [
           {
             "class": "devicon-amazonwebservices-original",
