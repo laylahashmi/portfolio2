@@ -30,9 +30,15 @@ class Projects extends Component {
                 <div>
                   <img
                     src={projects.images[0]}
-                    className="mx-auto mt-4"
+                    className="mx-auto mt-5"
                     alt="projectImages"
                     style={{ width:"50%", height: "auto" }}
+                  />
+                  <img
+                    src={require("../images/brown-tape.png")}
+                    className="tape-image"
+                    alt="tape"
+                    style={{ width: "40%", position: "absolute" }}
                   />
                   <br />
                   <p className="project-title-settings">

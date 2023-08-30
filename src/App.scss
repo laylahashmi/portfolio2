@@ -102,7 +102,7 @@ header h1 {
 	background: #faf7f1;
 	display: inline-block;
 	margin: 0 auto 5% auto;
-	height: 280px;
+	height: 285px;
 	width: 300px;
 	text-align: center;
 	text-decoration: none;
@@ -140,8 +140,7 @@ header h1 {
 
 .project-title-settings {
 	margin-top: 5%;
-	font-size: 300%;
-	font-family: 'Pangolin', cursive;
+	font: 30px/45px 'Pangolin', cursive;
 	font-weight: 500 !important;
 	letter-spacing: 3px;
 	color: black;
@@ -414,3 +413,13 @@ footer a:focus {
 	margin-top: 50px;
 	font-size: 22px;
 }
+
+.tape-image {
+	position: absolute;
+	top: -65px;
+	left: 90px;
+	width: 50%;
+	height: auto;
+	transform: rotate(-133deg);
+	z-index: 1;
+  }
