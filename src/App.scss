@@ -1,6 +1,6 @@
 @import '../src/scss/themes/theme-dark.scss';
 @import '../src/scss/themes/theme-light.scss';
-@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Ubuntu+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans&family=Ubuntu+Mono&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
 
 html {
@@ -23,6 +23,10 @@ html {
 .title-styles {
 	font-family: 'Ubuntu Mono', monospace;
 	font-size: 250%;
+}
+
+.skills-styles {
+	font-family: 'Open Sans', sans-serif;
 }
 
 .header-icon {
@@ -382,7 +386,7 @@ header h1 {
 }
 
 .skill-icon {
-	font-size: 180%;
+	font-size: 200%;
 	color: #524E4A;
 	text-align: center;
 	position: relative;
