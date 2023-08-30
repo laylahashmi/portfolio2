@@ -46,6 +46,10 @@
         {
           "name": "Sass",
           "class": "devicon-sass-original"
+        },
+        {
+          "name": "Java",
+          "class": "devicon-java-plain"
         }
       ],
       "front_end": [
