@@ -16,19 +16,36 @@
         "images": [
           "images/tripper/flight.png"
         ],
-        "url": "https://github.com/laylahashmi/Tripper",
+        "github": "https://github.com/laylahashmi/Tripper",
+        "demo": "https://domraro.gitlab.io/tripper2.0/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-fastapi-plain",
+            "name": "FastAPI"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-redux-plain",
+            "name": "Redux"
+          },
+          {
+            "class": "devicon-git-plain",
+            "name": "Git"
           }
         ]
       },
@@ -38,37 +55,65 @@
         "images": [
           "images/autoscape/car.png"
         ],
-        "url": "https://github.com/laylahashmi/AutoScape",
+        "github": "https://github.com/laylahashmi/AutoScape",
         "technologies": [
           {
             "class": "devicon-react-original",
             "name": "React"
           },
           {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "class": "devicon-django-plain",
+            "name": "Django"
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "PostgresQL"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-docker-plain",
+            "name": "Docker"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           }
         ]
       },
       {
-        "title": "PeersMeet",
+        "title": "Task Manager",
         "description": "Designed to help users manage their tasks efficiently for individual and/or group projects. It has user-focused features such as login, logout, and signup that make it easy for users to access and utilize the app. With this app, users can add multiple separate projects where they can edit, create, and delete certain tasks. Additionally, a user can assign tasks to specific team members, increasing team efficiency and decreasing project completion time/conflicts!",
         "images": [
           "images/peersmeet/planner.png"
         ],
-        "url": "https://github.com",
+        "github": "https://github.com/laylahashmi/task-sphere",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML 5"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-django-plain",
+            "name": "Django"
+          },
+          {
+            "class": "devicon-sqlite-plain",
+            "name": "SQLite3"
           }
         ]
       },
@@ -81,16 +126,24 @@
         "url": "https://github.com/TracerLabs-sourcecode/door-hopper",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-amazonwebservices-original",
+            "name": "AWS"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-react-plain",
+            "name": "React"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "PostgresQL"
           }
         ]
       },
@@ -100,19 +153,32 @@
         "images": [
           "images/portfolio/profile.png"
         ],
-        "url": "https://github.com/laylahashmi/portfolio",
+        "github": "https://github.com/laylahashmi/portfolio",
+        "demo": "https://laylasportfolio.vercel.app",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
             "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "name": "Typescript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-tailwindcss-plain",
+            "name": "Tailwind"
+          },
+          {
+            "class": "devicon-nextjs-plain",
+            "name": "NextJS"
+          },
+          {
+          "class": "devicon-git-plain",
+          "name": "Git"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
           }
         ]
       }

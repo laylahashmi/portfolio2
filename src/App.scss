@@ -65,19 +65,6 @@ header h1 {
 	width: 100%;
 }
 
-.slider-image {
-	border: 5px solid #D7CAAA;
-}
-
-.slider-tab {
-	background-color: #D7CAAA;
-	height: 25px;
-}
-
-.slider-iconfiy {
-	margin-top: 10px;
-}
-
 .styles_typicalWrapper__1_Uvh::after {
 	cursor: none !important;
 	display: none;
@@ -151,6 +138,12 @@ header h1 {
 	text-align: center;
 }
 
+.project-title-settings1 {
+	font: 40px/55px 'Pangolin', cursive;
+	color: black;
+	text-align: center;
+}
+
 .polaroid-about-me {
 	padding-top: 10px;
 	font: 24px/24px 'Pangolin', cursive;
@@ -178,9 +171,28 @@ header h1 {
 	position: relative;
 }
 
-.link-href {
-	color: black;
+.link-button {
+    background-color: #C7B29F;
+    color: black;
+    padding: 10px 20px;
+	border: none;
+    border-radius: 6px;
+    cursor: pointer;
+	font-size: 15px;
+	transition: background-color 0.2s ease-in-out;
+	font: 25px/25px 'Polaroid', sans-serif;
+
+  }
+
+.link-button:hover {
+	background-color: #9f8b7a;
 }
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
 
 .wave {
 	font-size: 160%;
@@ -250,7 +262,7 @@ header h1 {
 }
 
 .modal-inside .modal-content {
-	background: white;
+	background: #F6F5F0;
 }
 
 .bars {
@@ -298,12 +310,12 @@ header h1 {
 
 .modal-close {
 	text-align: right;
-	padding: 10px 15px 10px 15px;
+	padding: 10px 20px 10px 10px;
 	cursor: pointer;
 }
 
 .close-icon {
-	color: black;
+	color: #524E4A;
 	font-weight: lighter !important;
 }
 
@@ -311,7 +323,7 @@ header h1 {
 	text-align: justify;
 	padding: 5px 5px 0 5px;
 	margin-bottom: 20px;
-	font-size: 12px;
+	font-size: 15px;
 }
 
 .awssld__next {
