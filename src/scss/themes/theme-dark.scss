@@ -70,7 +70,7 @@ body[data-theme="dark"] {
  }
 
  .polaroid-about-me {
-   font: 30px/24px "Polaroid", sans-serif;
+   font: 24px/24px "Pangolin", cursive;
    color: white;
  }
 
@@ -89,6 +89,11 @@ body[data-theme="dark"] {
 
  .project-title-settings1 {
    color: white;
+ }
+
+ .project-image {
+   -webkit-filter: grayscale(100%);
+   filter: grayscale(100%);
  }
 
  #resume {
@@ -179,3 +184,8 @@ footer {
   position: relative;
   text-align: center;
 }
+
+.tape-image {
+   -webkit-filter: grayscale(100%);
+   filter: grayscale(100%);
+   }
