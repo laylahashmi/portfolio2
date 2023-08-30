@@ -11,14 +11,12 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Tripper",
+        "description": "Tripper is a travel journal designed for the new age nomad. Our team of creators has made a beautiful and intuitive application that allows users to create a history of all their amazing travels including each stop made along the way. Tripper travelers can include their favorite photo as the main display of the trip and let the smart app provide a professional picture for each related stop. All the fun had along the way can be documented in each stop, and an overview of the entire trip will remind our users what they did every time they go to the home page.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/tripper/flight.png"
         ],
-        "url": "",
+        "url": "https://github.com/laylahashmi/Tripper",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -35,14 +33,12 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "AutoScape",
+        "description": "AutoScape was developed to manage various aspects of an automobile dealership including inventory, service center, and sales. Polling was leveraged to ensure data integrity and syncing between three databases linked to four microservices. I implemented form submission for client-side appointment scheduling and search/filter components to enhance user experience and increase website traffic. The sales management module is a user-friendly interface built using React, allowing dealerships to easily add and delete vehicle sales from the system, as well as keep track of all salesperson records.  Additionally, the application has a feature of VIP status, which is implemented for automobiles that have been serviced more than once.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "images/autoscape/car.png"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/laylahashmi/AutoScape",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,14 +51,56 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "PeersMeet",
+        "description": "Designed to help users manage their tasks efficiently for individual and/or group projects. It has user-focused features such as login, logout, and signup that make it easy for users to access and utilize the app. With this app, users can add multiple separate projects where they can edit, create, and delete certain tasks. Additionally, a user can assign tasks to specific team members, increasing team efficiency and decreasing project completion time/conflicts!",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/peersmeet/planner.png"
         ],
         "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Door Hopper",
+        "description": "Designed specifically for a door to door solar panel sales company, Door Hopper uses the Google API to keep track of all addresses/locations of the company's potential customers. It features a client-side form where customers can leave their information and schedule an appointment for a consult with a sales professional or for solar panel installation with a technician. It has a secure database of all customers and their information which only certain company members can access.",
+        "images": [
+          "images/doorhopper/solar-energy.png"
+        ],
+        "url": "https://github.com/TracerLabs-sourcecode/door-hopper",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "A Dusty Portfolio",
+        "description": "This was the first portfolio I ever developed for myself, it is an older model that I like to look back on and see how far I've come. I wanted to include it because it was built from the ground up utilizing NextJS for the backend and React for the frontend. I also implemented Incremental Static Regeneration with Sanity.io which allowed me to easily update contents without needing to redeploy with each update. The UI design was thanks to my skills with Tailwind CSS and the animations were made with Framer Motion.",
+        "images": [
+          "images/portfolio/profile.png"
+        ],
+        "url": "https://github.com/laylahashmi/portfolio",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",

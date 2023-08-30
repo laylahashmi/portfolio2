@@ -18,7 +18,7 @@ class About extends Component {
           </h1>
           <div className="row center mx-auto mb-5">
             <div className="col-md-4 mb-5 center">
-              <div className="polaroid">
+              <div className="polaroid position-relative">
                 <span style={{ cursor: "auto" }}>
                   <img
                     height="210px"
@@ -31,6 +31,7 @@ class About extends Component {
                   width="170px"
                   className="mt-4 mx-auto"
                   alt="writing" />
+                  {/* <h3 className="polaroid-about-me mt-3"> Hello, I'm Layla! :)</h3> */}
                 </span>
                 <div className="tape-top">
                   <img
@@ -52,7 +53,6 @@ class About extends Component {
                 </div>
               </div>
             </div>
-
             <div className="col-md-8 center">
               <div className="col-md-10">
                 <div className="card">
