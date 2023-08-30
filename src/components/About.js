@@ -26,8 +26,30 @@ class About extends Component {
                     src={profilepic}
                     alt="Avatar placeholder"
                   />
-                  <img src={require("../images/greeting.png")} width="170px" className="mt-4 mx-auto" alt="writing" />
+                  <img
+                  src={require("../images/polaroidwriting.png")}
+                  width="170px"
+                  className="mt-4 mx-auto"
+                  alt="writing" />
                 </span>
+                <div className="tape-top">
+                  <img
+                    src={require("../images/grey-tape.png")}
+                    className="position-absolute"
+                    width="70px"
+                    style={{ top: 35, left:50 }}
+                    alt="tape"
+                    />
+                </div>
+                <div className="tape-bottom">
+                <img
+                    src={require("../images/grey-tape.png")}
+                    className="position-absolute"
+                    width="70px"
+                    style={{ bottom: 10, right:50 }}
+                    alt="tape"
+                    />
+                </div>
               </div>
             </div>
 
