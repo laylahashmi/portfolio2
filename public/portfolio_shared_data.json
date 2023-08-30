@@ -9,6 +9,11 @@
           "class": "fab fa-github"
         },
         {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/layla-hashmi/",
+          "class": "fab fa-linkedin"
+        },
+        {
           "name": "email",
           "url": "mailto:laylawaseem@gmail.com",
           "class": "fas fa-envelope"
