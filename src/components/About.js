@@ -63,7 +63,7 @@ class About extends Component {
                   </div>
                 </div>
                 <div className="text-center mt-5">
-                  <a href={require("../resume/NudratHashmiResume.pdf")} download>
+                  <a href={require("../resume/LaylaHashmiResume.pdf")} download>
                     <button className="resume-button">Download Resume</button>
                   </a>
                 </div>
