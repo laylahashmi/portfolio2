@@ -83,8 +83,8 @@ class Skills extends Component {
       <section id="skills">
         <div className="col-md-12">
           <div className="col-md-12">
-          <h1 className="section-title" style={{ color: "black" }}>
-            <span>Skills</span>
+          <h1 className="section-title">
+            <span style={{ color: "black" }}>Skills</span>
           </h1>
           </div>
           <div className="text-center">
