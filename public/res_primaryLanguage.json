@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hello",
-      "description": "I'm a software engineer residing in the Dallas-FortWorth area. I have always been enchanted with the world of technology and innovaton and after graduating from the University of Texas at Arlington, I took the leap and transitioned from the finance industry to start my tech journey in early 2022 by utilizing my network and internally transferred to a software development internship at a financial services firm. Fast forward to now, summer 2023, I have expanded my skillset by completing an advanced software engineering immersive where I gained valuable technical skills and development expertise. As a detail-oriented person, I have a passion for developing, designing and maintaining websites/applications with a focus on clean coding practices and user-friendliness. In my free time, I love to read, paint, cook, hangout with friends/family and travel. My 5 year old cat, Luna, loves to sit with me while I'm coding and is my version of a programmer's rubber duck.",
+      "description": "Hello! I'm a software engineer based in Dallas-Fort Worth who is captivated by the dynamic world of technology and innovation. After graduating from the University of Texas at Arlington, I leaped from finance to start my tech journey in mid-2022. Now, in winter 2023, I've honed my skills through a 5-month advanced software engineering immersive and a 12-week program as a Junior Java Developer Trainee with FDM. Detail-oriented and committed to clean coding, I specialize in developing user-friendly websites and applications. Beyond coding, I enjoy reading, painting, cooking, and exploring new places with friends and family. I usually have a coding companion, Luna, my 5-year-old cat who doubles as my programmer's rubber duck. Now, let's bring innovative ideas to life together! I'd love for you to check out my resume and send me an email.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -185,38 +185,52 @@
     ],
     "experience": [
       {
-        "company": "Tracer Labs",
-        "title": "Fullstack Software Engineer",
-        "years": "Jan 2023 - Present",
+        "company": "Freelance",
+        "title": "Software Developer",
+        "years": "Oct 2023 - Present",
         "icon": "fas fa-desktop",
         "mainTech": [
-          "Full Time"
+          "Java, Python, Javascript"
         ],
         "technologies": [
           "React",
+          "Springboot",
+          "Docker",
+          "PostgresQL",
+          "Firebase",
+          "AWS EC2",
+          "Sass",
+          "RabbitMQ",
+          "Django 4",
+          "Git",
+          "Redux"
+        ]
+      },
+      {
+        "company": "FDM",
+        "title": "Junior Java Engineer Trainee",
+        "years": "Aug 2023 - Oct 2023",
+        "icon": "fas fa-laptop",
+        "mainTech": [
+          "Java, Springboot, Spring MVC"
+        ],
+        "technologies": [
           "AWS",
           "Node.js",
           "Javascript",
-          "REST API",
-          "Python",
-          "Firebase",
           "MySQL",
-          "GitHub",
-          "Git",
-          "Java"
+          "Git"
         ]
       },
       {
         "company": "Hack Reactor",
         "title": "Software Engineer Student",
-        "years": "Aug 2022 - May 2023",
+        "years": "Nov 2022 - May 2023",
         "icon": "fas fa-user-graduate",
         "mainTech": [
-          "Part Time"
+          "Python, Javascript"
         ],
         "technologies": [
-          "Python",
-          "Javascript",
           "React",
           "Django",
           "FastAPI",
@@ -236,40 +250,38 @@
       },
       {
         "company": "Robinhood",
-        "title": "Software Developer",
-        "years": "Feb 2022 - Jan 2023",
-        "icon": "fas fa-laptop",
-        "mainTech": [
-          "Internal Transfer"
-        ],
-        "technologies": [
-          "Python",
-          "Docker",
-          "PostgresQL",
-          "React",
-          "AWS EC2",
-          "Sass",
-          "RabbitMQ",
-          "Django REST framework",
-          "Git",
-          "Redux"
-        ]
-      },
-      {
-        "company": "Robinhood",
-        "title": "Stockbroker",
-        "years": "Jul 2021 - Feb 2022",
+        "title": "Stockbroker & Financial Representative",
+        "years": "Jul 2021 - Nov 2022",
         "icon": "fas fa-chart-line",
         "mainTech": [
+          "Series 7",
+          "Series 63",
+          "SIE"
         ],
         "technologies": [
+          "financial concepts",
+          "customer service",
+          "stock sells/buys"
         ]
       },
       {
         "company": "Glaucoma Consultants of Texas",
-        "title": "Medical Assistant",
+        "title": "Medical Technician",
         "years": "Jul 2020 - June 2021",
         "icon": "fa fa-stethoscope",
+        "mainTech": [
+        ],
+        "technologies": [
+          "customer service",
+          "medical procedures",
+          "machine control"
+        ]
+      },
+      {
+        "company": "Bachelor of Science Graduate",
+        "title": "The University of Texas Arlington",
+        "years": "Aug 2016 - May 2020",
+        "icon": "fas fa-user-graduate",
         "mainTech": [
         ],
         "technologies": [
